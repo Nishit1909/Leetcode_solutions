@@ -5,15 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0198-house-robber) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishit1909/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishit1909/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0198-house-robber) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishit1909/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
 |  |
@@ -22,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishit1909/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
