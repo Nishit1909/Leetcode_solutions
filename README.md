@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nishit1909/Leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nishit1909/Leetcode_solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nishit1909/Leetcode_solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |
