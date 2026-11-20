@@ -62,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Nishit1909/Leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
