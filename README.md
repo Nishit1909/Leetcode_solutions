@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0062-unique-paths) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishit1909/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
