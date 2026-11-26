@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0931-minimum-falling-path-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1340-jump-game-v](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Nishit1909/Leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishit1909/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0931-minimum-falling-path-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1340-jump-game-v](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1340-jump-game-v](https://github.com/Nishit1909/Leetcode_solutions/tree/master/1340-jump-game-v) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Nishit1909/Leetcode_solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
